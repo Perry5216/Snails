@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 4596e9b59558d654e8488002d8c99556
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: deathstate_0
+  - first:
+      213: 21300002
+    second: deathstate_1
+  - first:
+      213: 21300004
+    second: deathstate_2
+  - first:
+      213: 21300006
+    second: deathstate_3
+  - first:
+      213: 21300008
+    second: deathstate_4
+  - first:
+      213: 21300010
+    second: deathstate_5
+  - first:
+      213: 21300012
+    second: deathstate_6
+  - first:
+      213: 21300014
+    second: deathstate_7
+  - first:
+      213: 21300016
+    second: deathstate_8
+  - first:
+      213: 21300018
+    second: deathstate_9
+  - first:
+      213: 21300020
+    second: deathstate_10
+  - first:
+      213: 21300022
+    second: deathstate_11
+  - first:
+      213: 21300024
+    second: deathstate_12
+  - first:
+      213: 21300026
+    second: deathstate_13
+  - first:
+      213: 21300028
+    second: deathstate_14
+  - first:
+      213: 21300030
+    second: deathstate_15
+  - first:
+      213: 21300032
+    second: deathstate_16
+  - first:
+      213: 21300034
+    second: deathstate_17
+  - first:
+      213: 21300036
+    second: deathstate_18
+  - first:
+      213: 21300038
+    second: deathstate_19
+  - first:
+      213: 21300040
+    second: deathstate_20
+  - first:
+      213: 21300042
+    second: deathstate_21
+  - first:
+      213: 21300044
+    second: deathstate_22
+  - first:
+      213: 21300046
+    second: deathstate_23
+  - first:
+      213: 21300048
+    second: deathstate_24
+  - first:
+      213: 21300050
+    second: deathstate_25
+  - first:
+      213: 21300052
+    second: deathstate_26
+  - first:
+      213: 21300054
+    second: deathstate_27
+  - first:
+      213: 21300056
+    second: deathstate_28
+  - first:
+      213: 21300058
+    second: deathstate_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deathstate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13671
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a6d0395974ebf46b852ba2ae884307
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_1
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 13671
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1314d3d56cf10c4499adb50df795ecad
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_2
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 13671
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb33cbde75ef2e4b90e3322a4d79ccf
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_3
+      rect:
+        serializedVersion: 2
+        x: 8682
+        y: 13671
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732e4ec618a31904b98c798154f51c59
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11718
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a163295e6d92fc740937e3f06617b393
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_5
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 11718
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cc506f3288e79449e3c604bd60214a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_6
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 11718
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ecb4fa3ba4e6a44903082cc6df3785
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_7
+      rect:
+        serializedVersion: 2
+        x: 8682
+        y: 11718
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee4b4f410987f4498f2da76d77ec87
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9765
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620748dd51ed04429263a1c5111a662
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_9
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 9765
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114fe36309e7154db8346474bb505d8
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_10
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 9765
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278d2f549f238d043aa29919b0558a2b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_11
+      rect:
+        serializedVersion: 2
+        x: 8682
+        y: 9765
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d691b3f36fca2f4ab4f835b9b769be6
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7812
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782fde1699cb6d141a261d8e098a0423
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_13
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 7812
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3d932f5f17e7d4bbae2eabe7d4b80a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_14
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 7812
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fa48e666143fd4a94584a0557efee6
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_15
+      rect:
+        serializedVersion: 2
+        x: 8682
+        y: 7812
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06421b9d4334d754d8670f0eb3eac2e9
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5859
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1782c594a2a317245b5f838957887579
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_17
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 5859
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7a86e8dd8edc94f8e4ca145aa26c87
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_18
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 5859
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b7b7dd9c48844f907ba5acd47f5b0
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_19
+      rect:
+        serializedVersion: 2
+        x: 8682
+        y: 5859
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1086ba3b0c3094d4c84c842fcf6835d0
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3906
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d03d6a61902bd7499bf7eae9c675476
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_21
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 3906
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3494aaecd88e5441925409a457b3631
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_22
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 3906
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d003481415e93f8499c8e09822b9d625
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_23
+      rect:
+        serializedVersion: 2
+        x: 8682
+        y: 3906
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0b3ae2affc374996f8d2323c7d7b2
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1953
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bbfa63608ffd94e8bc443c06af9192
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_25
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 1953
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224d163de7ea8a8419fdd0139c5c317e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_26
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 1953
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114d3d510e5c7ec4183ac5e32df9f793
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_27
+      rect:
+        serializedVersion: 2
+        x: 8682
+        y: 1953
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811e7b5e4106a38429eac1b76c12c4b2
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5166d6fcbf25f2f4abf19f54e40001a9
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deathstate_29
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 0
+        width: 2894
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b4f87a39ed34e4da423d963a3a53c0
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e91f3c6206820ed478cd366a82f82761
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

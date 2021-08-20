@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 9fce055bf42511b4d91e9385471efe78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: side_two_0
+  - first:
+      213: 21300002
+    second: side_two_1
+  - first:
+      213: 21300004
+    second: side_two_2
+  - first:
+      213: 21300006
+    second: side_two_3
+  - first:
+      213: 21300008
+    second: side_two_4
+  - first:
+      213: 21300010
+    second: side_two_5
+  - first:
+      213: 21300012
+    second: side_two_6
+  - first:
+      213: 21300014
+    second: side_two_7
+  - first:
+      213: 21300016
+    second: side_two_8
+  - first:
+      213: 21300018
+    second: side_two_9
+  - first:
+      213: 21300020
+    second: side_two_10
+  - first:
+      213: 21300022
+    second: side_two_11
+  - first:
+      213: 21300024
+    second: side_two_12
+  - first:
+      213: 21300026
+    second: side_two_13
+  - first:
+      213: 21300028
+    second: side_two_14
+  - first:
+      213: 21300030
+    second: side_two_15
+  - first:
+      213: 21300032
+    second: side_two_16
+  - first:
+      213: 21300034
+    second: side_two_17
+  - first:
+      213: 21300036
+    second: side_two_18
+  - first:
+      213: 21300038
+    second: side_two_19
+  - first:
+      213: 21300040
+    second: side_two_20
+  - first:
+      213: 21300042
+    second: side_two_21
+  - first:
+      213: 21300044
+    second: side_two_22
+  - first:
+      213: 21300046
+    second: side_two_23
+  - first:
+      213: 21300048
+    second: side_two_24
+  - first:
+      213: 21300050
+    second: side_two_25
+  - first:
+      213: 21300052
+    second: side_two_26
+  - first:
+      213: 21300054
+    second: side_two_27
+  - first:
+      213: 21300056
+    second: side_two_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: side_two_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67042127ca9790143ae2d9545904dc3a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_1
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2232
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae10a39ad3951344b8236aef46ab0a6
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_2
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2232
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc3f2135da4752468bfef92f331fca9
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_3
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2232
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad744bb1769a6ec479d6f2405605f128
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_4
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2232
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dac5e2083338044827eeb4b38c6dee
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_5
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 2232
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6e68e2be0db124392a67478d9a16b9
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_6
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2232
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2192938be842a44691d48d20fa68b1b
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_7
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 2232
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e8c31070201c4daeed459b0ce65a1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_8
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 2232
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6556abd4530ba49b77c2b0f1040d7d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_9
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 2232
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e426202fe05b94bbb624d616a2ba62
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3a0b0608b535544a7687d1596dbdbd
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1116
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6b91e2c387e0845be4052949350bca
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_12
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1116
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a82d65bb80f8994398ca3078cc3d6b5
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_13
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1116
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34483eee7816a1f4c9512c46ab935be2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_14
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1116
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47a2531202b1f041a9e3345b4b90c83
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_15
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1116
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be46fafb14238af42848bdd2920766d4
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_16
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1116
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce84f423b88244880956db2f0e4c8f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_17
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1116
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081f751d273cc2d48a38efa610ed04de
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_18
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1116
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97fd47b21900d045a5066c8949f8b6d
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_19
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1116
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0623567b094334ca5c7efa877ba081
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2136a88556a8df40a81204f387ce6fa
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6be6e995188fa4c8c47e7c2ff47b2f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_22
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82cae942ba10a34aa0eda2e784705d3
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_23
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8766f3a64acc1004bbf43619bb27fd12
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_24
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff5f9ecbbd1e4547b6023b03edc5717
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_25
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 0
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2971b885436f5554a82b0aaf5efec140
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_26
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 0
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453e8d139adb1d4ea0edb39c3667ccb
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_27
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 0
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0ee50a119d3af479ac3e56bb5fde7d
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_two_28
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 0
+        width: 910
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a408118e140284ab4c7d0237928c14
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 24945c39b1d4a404cb01754483ace589
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

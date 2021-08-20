@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 63734ac88825d104b9aa247cd927f8e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: tofirestate_0
+  - first:
+      213: 21300002
+    second: tofirestate_1
+  - first:
+      213: 21300004
+    second: tofirestate_2
+  - first:
+      213: 21300006
+    second: tofirestate_3
+  - first:
+      213: 21300008
+    second: tofirestate_4
+  - first:
+      213: 21300010
+    second: tofirestate_5
+  - first:
+      213: 21300012
+    second: tofirestate_6
+  - first:
+      213: 21300014
+    second: tofirestate_7
+  - first:
+      213: 21300016
+    second: tofirestate_8
+  - first:
+      213: 21300018
+    second: tofirestate_9
+  - first:
+      213: 21300020
+    second: tofirestate_10
+  - first:
+      213: 21300022
+    second: tofirestate_11
+  - first:
+      213: 21300024
+    second: tofirestate_12
+  - first:
+      213: 21300026
+    second: tofirestate_13
+  - first:
+      213: 21300028
+    second: tofirestate_14
+  - first:
+      213: 21300030
+    second: tofirestate_15
+  - first:
+      213: 21300032
+    second: tofirestate_16
+  - first:
+      213: 21300034
+    second: tofirestate_17
+  - first:
+      213: 21300036
+    second: tofirestate_18
+  - first:
+      213: 21300038
+    second: tofirestate_19
+  - first:
+      213: 21300040
+    second: tofirestate_20
+  - first:
+      213: 21300042
+    second: tofirestate_21
+  - first:
+      213: 21300044
+    second: tofirestate_22
+  - first:
+      213: 21300046
+    second: tofirestate_23
+  - first:
+      213: 21300048
+    second: tofirestate_24
+  - first:
+      213: 21300050
+    second: tofirestate_25
+  - first:
+      213: 21300052
+    second: tofirestate_26
+  - first:
+      213: 21300054
+    second: tofirestate_27
+  - first:
+      213: 21300056
+    second: tofirestate_28
+  - first:
+      213: 21300058
+    second: tofirestate_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tofirestate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10336
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63962bf01b1765c47929b1ceaf5b623a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_1
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 10336
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16dbbe50c54b5a4b962062309c0fbc6
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_2
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 10336
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4ab6dd6e28916488805f2025453561
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_3
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 10336
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c092acf23a4bab48953684aa155449b
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_4
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 10336
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7fafa6ef3fbe844bbad61ad7a6f940
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_5
+      rect:
+        serializedVersion: 2
+        x: 8830
+        y: 10336
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb1d0b50252c2e4e976a57e7a7adf4c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7752
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f8c24117b9993449f1dc12be8ae029
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_7
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 7752
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b3913e586eb634dbf9d5c47c2913af
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_8
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 7752
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d56c8de4cd8248ac4544afa66c3b9
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_9
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 7752
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e46c5e9e7d90e48bdc9313de1df618
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_10
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 7752
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e76b255f5285744681726e6d7f2578c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_11
+      rect:
+        serializedVersion: 2
+        x: 8830
+        y: 7752
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ebf72f18e78d4e9c85df064764a24
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5168
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2718074fa51091f43b16915c805f441d
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_13
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 5168
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8004291c7206a649a79e54bc75d5bec
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_14
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 5168
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6bb8ed2ac472341a864513bf8a4401
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_15
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 5168
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6cef3b7ca9ef4e9a2ca46a6755b49
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_16
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 5168
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50635fee55a678b4aae8d5c45fb9c5e4
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_17
+      rect:
+        serializedVersion: 2
+        x: 8830
+        y: 5168
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c06b951bbf24469c0ea9baee91618
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2584
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023877e099c98d248910fdc0064e69a8
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_19
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2584
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c41a6e00552864398914b0b186c1a4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_20
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2584
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d12785624084524baa85084103d5fef
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_21
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 2584
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595038958472c7349a38934c27c67faf
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_22
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 2584
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e6aea5b42accb48a21e738d3854460
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_23
+      rect:
+        serializedVersion: 2
+        x: 8830
+        y: 2584
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6d311dd1403634fb53cabbc2f95876
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df606d8cbd199594c987570633f595ea
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_25
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 0
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad23913fe77e5e489ba4c3611686341
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_26
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 0
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394a1443269b60949a5d3f6e43f6a348
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_27
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 0
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdf153c84a15fb488bd149e143c2a2d
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_28
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 0
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236dc7649b18de4418771760b561e09e
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofirestate_29
+      rect:
+        serializedVersion: 2
+        x: 8830
+        y: 0
+        width: 1766
+        height: 2584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4191468603f3d48a68767d5d162f46
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f929b08a25722594cbaf90b37c6a7b8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

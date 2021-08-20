@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: f70857133dabd084aadd18f20cada2db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: side_five_0
+  - first:
+      213: 21300002
+    second: side_five_1
+  - first:
+      213: 21300004
+    second: side_five_2
+  - first:
+      213: 21300006
+    second: side_five_3
+  - first:
+      213: 21300008
+    second: side_five_4
+  - first:
+      213: 21300010
+    second: side_five_5
+  - first:
+      213: 21300012
+    second: side_five_6
+  - first:
+      213: 21300014
+    second: side_five_7
+  - first:
+      213: 21300016
+    second: side_five_8
+  - first:
+      213: 21300018
+    second: side_five_9
+  - first:
+      213: 21300020
+    second: side_five_10
+  - first:
+      213: 21300022
+    second: side_five_11
+  - first:
+      213: 21300024
+    second: side_five_12
+  - first:
+      213: 21300026
+    second: side_five_13
+  - first:
+      213: 21300028
+    second: side_five_14
+  - first:
+      213: 21300030
+    second: side_five_15
+  - first:
+      213: 21300032
+    second: side_five_16
+  - first:
+      213: 21300034
+    second: side_five_17
+  - first:
+      213: 21300036
+    second: side_five_18
+  - first:
+      213: 21300038
+    second: side_five_19
+  - first:
+      213: 21300040
+    second: side_five_20
+  - first:
+      213: 21300042
+    second: side_five_21
+  - first:
+      213: 21300044
+    second: side_five_22
+  - first:
+      213: 21300046
+    second: side_five_23
+  - first:
+      213: 21300048
+    second: side_five_24
+  - first:
+      213: 21300050
+    second: side_five_25
+  - first:
+      213: 21300052
+    second: side_five_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: side_five_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b884dab8262f594d89a261fbcc0e411
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_1
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425e2b68315556749afb7634869de936
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_2
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b4f5dbe5acd8143a743ae40f2a60e4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_3
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0c1b64a172ee4c8fc04a7607fd55a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_4
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800c4a5c6e8b1b54683342585b00f3c4
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_5
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856b566659ef78c448aae70b3dc949ed
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_6
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164024370c05e344b98ae8eef8d3ed54
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_7
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea371ad56cfabbe45833cdeb850d292c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_8
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e47d087bb48bb438357b14286d2f2b
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_9
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6828b536ffa0cc48ba09580ab68a037
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7067ceb88f4f664c802ae336b8cd528
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b444d469617dcc44adbd8f5a4d50a61
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_12
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098398b7e8b69f548a670f870b08a2d7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_13
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b28bc6199803f44a60dc1bf41e8d4a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_14
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84989247e9ebb6b4a9f81efe589361f5
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_15
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e05d1145de484fb8e68221738e97f
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_16
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e7b8acc64ef14a8261921be98e09a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_17
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104fdb71e46a65a49b098c68b0c01866
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_18
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0867b16c2fb8a84fa27d1d04162b8b8
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_19
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ee35c026139ec48a06918efc506130
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a822cde90c6f1ab4c977bf83c6dd6f97
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ca3e51c69655941a11456866a4ac15
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_22
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a40e2e2669c494aada2327cc601ee8
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_23
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b37a017934d61f4f9a7896d9b227725
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_24
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c51691f4a851b4ca0c461ab055ecd9
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_25
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a2a0ff334011047a6f300b61e4a5c4
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_five_26
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b61dea07d2eea7418db319ea937aa3f
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 98098b48c285f634e9a4b2d63def2b0d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

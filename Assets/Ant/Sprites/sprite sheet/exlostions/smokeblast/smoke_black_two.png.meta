@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 90098a2b6fa309e4b8696715065f44dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: smoke_black_two_0
+  - first:
+      213: 21300002
+    second: smoke_black_two_1
+  - first:
+      213: 21300004
+    second: smoke_black_two_2
+  - first:
+      213: 21300006
+    second: smoke_black_two_3
+  - first:
+      213: 21300008
+    second: smoke_black_two_4
+  - first:
+      213: 21300010
+    second: smoke_black_two_5
+  - first:
+      213: 21300012
+    second: smoke_black_two_6
+  - first:
+      213: 21300014
+    second: smoke_black_two_7
+  - first:
+      213: 21300016
+    second: smoke_black_two_8
+  - first:
+      213: 21300018
+    second: smoke_black_two_9
+  - first:
+      213: 21300020
+    second: smoke_black_two_10
+  - first:
+      213: 21300022
+    second: smoke_black_two_11
+  - first:
+      213: 21300024
+    second: smoke_black_two_12
+  - first:
+      213: 21300026
+    second: smoke_black_two_13
+  - first:
+      213: 21300028
+    second: smoke_black_two_14
+  - first:
+      213: 21300030
+    second: smoke_black_two_15
+  - first:
+      213: 21300032
+    second: smoke_black_two_16
+  - first:
+      213: 21300034
+    second: smoke_black_two_17
+  - first:
+      213: 21300036
+    second: smoke_black_two_18
+  - first:
+      213: 21300038
+    second: smoke_black_two_19
+  - first:
+      213: 21300040
+    second: smoke_black_two_20
+  - first:
+      213: 21300042
+    second: smoke_black_two_21
+  - first:
+      213: 21300044
+    second: smoke_black_two_22
+  - first:
+      213: 21300046
+    second: smoke_black_two_23
+  - first:
+      213: 21300048
+    second: smoke_black_two_24
+  - first:
+      213: 21300050
+    second: smoke_black_two_25
+  - first:
+      213: 21300052
+    second: smoke_black_two_26
+  - first:
+      213: 21300054
+    second: smoke_black_two_27
+  - first:
+      213: 21300056
+    second: smoke_black_two_28
+  - first:
+      213: 21300058
+    second: smoke_black_two_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoke_black_two_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b661fd41dbe7524d9b37f7063e3fcd2
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 710
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d36056c498143c4baf90ac93df38f2c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 710
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65c99fbc528e9f4293d795f49a3098d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 710
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022f6e13d2863954fb7e07aceae74482
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_4
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 710
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa64340b11b97ec45a56003cdc17b451
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_5
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 710
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187ceda171a0fa8449cb8430089c4383
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_6
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 710
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3edc7da1e75c44d9776dc9a2680ff8
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_7
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 710
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfd815342129c344adde0ba96270c68
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_8
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 710
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6af3aaa50dcf8c4f9e3c77b4f02ae60
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_9
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 710
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100a9b1121c48149af63e5dcad56da2
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6e1acf062d384a9dd6701def84f6b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 355
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fe9dc7c91f7d84aa4c375147bea80c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_12
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 355
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44171cdd286677444ae80913074401d5
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 355
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b8d10a08274be40b8c08d69a90f657
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_14
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 355
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75570a174bd3394b9b05f1daeb2fcc4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_15
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 355
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1666b535f5b1f084ba7ee243f4e006f3
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_16
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 355
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87077917c61f64149ab4cdfd35a1eade
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_17
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 355
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed005410e503644c9f9225765bbcdcd
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_18
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 355
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3bb70e96e2f8a4d8e9936dd831a138
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_19
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 355
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c912892e9548f943b6d3d116ffd8901
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2e3d6e5e493fc48b38b19af44916ff
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a32591d7226e444a1cbd215cdd0ccb
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_22
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13377e26033097a41b2e9a6f2030ada4
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_23
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a200fdcf68a644e914948259ba2749
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_24
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd324c546989f941b1bb3cf5b775444
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_25
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 0
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6180968e1fc3efe448b57a7bc6769431
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_26
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 0
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776cc1bbbf56aa24ebc38a5180b8c47d
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_27
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 0
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b661096ccae91246b3f0e56923a8a22
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_28
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 0
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d9d13eb6629e24f896503b4b98702d
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_black_two_29
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 0
+        width: 274
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe516fecba78b4eb2a79ba3e4be760
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cdbafda245877404f9f27d4f71a54018
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

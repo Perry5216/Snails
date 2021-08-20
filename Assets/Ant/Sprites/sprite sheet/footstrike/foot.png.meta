@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 3557ba8aa6d5ffd4bb038b42668356ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: foot_0
+  - first:
+      213: 21300002
+    second: foot_1
+  - first:
+      213: 21300004
+    second: foot_2
+  - first:
+      213: 21300006
+    second: foot_3
+  - first:
+      213: 21300008
+    second: foot_4
+  - first:
+      213: 21300010
+    second: foot_5
+  - first:
+      213: 21300012
+    second: foot_6
+  - first:
+      213: 21300014
+    second: foot_7
+  - first:
+      213: 21300016
+    second: foot_8
+  - first:
+      213: 21300018
+    second: foot_9
+  - first:
+      213: 21300020
+    second: foot_10
+  - first:
+      213: 21300022
+    second: foot_11
+  - first:
+      213: 21300024
+    second: foot_12
+  - first:
+      213: 21300026
+    second: foot_13
+  - first:
+      213: 21300028
+    second: foot_14
+  - first:
+      213: 21300030
+    second: foot_15
+  - first:
+      213: 21300032
+    second: foot_16
+  - first:
+      213: 21300034
+    second: foot_17
+  - first:
+      213: 21300036
+    second: foot_18
+  - first:
+      213: 21300038
+    second: foot_19
+  - first:
+      213: 21300040
+    second: foot_20
+  - first:
+      213: 21300042
+    second: foot_21
+  - first:
+      213: 21300044
+    second: foot_22
+  - first:
+      213: 21300046
+    second: foot_23
+  - first:
+      213: 21300048
+    second: foot_24
+  - first:
+      213: 21300050
+    second: foot_25
+  - first:
+      213: 21300052
+    second: foot_26
+  - first:
+      213: 21300054
+    second: foot_27
+  - first:
+      213: 21300056
+    second: foot_28
+  - first:
+      213: 21300058
+    second: foot_29
+  - first:
+      213: 21300060
+    second: foot_30
+  - first:
+      213: 21300062
+    second: foot_31
+  - first:
+      213: 21300064
+    second: foot_32
+  - first:
+      213: 21300066
+    second: foot_33
+  - first:
+      213: 21300068
+    second: foot_34
+  - first:
+      213: 21300070
+    second: foot_35
+  - first:
+      213: 21300072
+    second: foot_36
+  - first:
+      213: 21300074
+    second: foot_37
+  - first:
+      213: 21300076
+    second: foot_38
+  - first:
+      213: 21300078
+    second: foot_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: foot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8610
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373c4926edae04e4b986e51743b0ac5b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_1
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 8610
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e43acea7b49fe46919ad414ae9a21d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_2
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 8610
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7998aee4dfd793245ad0ab095e0f0094
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_3
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 8610
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa25d177691a7142a6d6d3db63cfc59
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_4
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 8610
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590df30d89fb56d4c8ed80a92aed526e
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_5
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 8610
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e50ceba45f16d43836aed9aa09f6c2
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7175
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8811a7536eeeb424eb82479200a2b819
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 7175
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924eb4c17ecbba24bb4f91e65213aeb4
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_8
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 7175
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507cb23f90d9c5449b2dc97c7b46ea52
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_9
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 7175
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cacc6db713404a47a79776d57bec1a8
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_10
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 7175
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126ae353dbf93fa4498bb347d5b3e3e3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_11
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 7175
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5db584f6cf69604081e96f6d0d4c9ad
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5740
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87651828ae8dcb449b5331f2cd48b76e
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 5740
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188c0048d9f9df345ab36a59acff7716
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_14
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 5740
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29e6b4cd42b8584d8e422fac759698b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_15
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 5740
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab83946701d5b6a4ebca6e5779cde297
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_16
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 5740
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18024621d48d94d46b19c5ca21d02674
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_17
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 5740
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8355cf40421214c8b6038188116093
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4305
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed43214e7b27c4bba934d65ff5db6c
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_19
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 4305
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08187c42ae367049a592fb4f783e648
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_20
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 4305
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aa3e34ed91dee46824fdfef0261fc1
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_21
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 4305
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b12441fff4b6b344a84a47f3a92a4a8
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_22
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 4305
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d17974fcc9a7d43ba0053e2e40930e
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_23
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 4305
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bb6b5146a4b774c9fc732bdd4d4fbe
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2870
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5d9a0e560393348959390d900f4f96
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_25
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2870
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f78cb528ba80a48806fdd8e592fec6
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_26
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 2870
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec6fda3c0902a444be228c171bd8bfe
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_27
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 2870
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb47c3013bf32b4e9d1a49b434fd065
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_28
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 2870
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e675befa5766ed40b0497ad9973c9d1
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_29
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 2870
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af0a2714d5dd245809735fd8ab778b
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1435
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92d6d4b24c0c0247aa7f43059286667
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_31
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1435
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e508d3d697c374db3560206e604f4b
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_32
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1435
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f115565b8f1cb7846bbe56fec152543e
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_33
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1435
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f953b5f4a35551e49b2a83ff9519a7d6
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_34
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1435
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e45a29daf9e5ae469666ba52a4bb241
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_35
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 1435
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4238d708c0df53648bfd63dcbfc71f0a
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9594d69a8a7e3c4ebd4e969507c00d9
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_37
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd6feebf9aa84f43910ef3b66759b3f
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_38
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 0
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92357337bc3681240a647a9cd0f9daa0
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foot_39
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 0
+        width: 845
+        height: 1435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4f513d340bbdc40b2201002cc8e413
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 374916a92ee1ab1458641aa1f66b9fa1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

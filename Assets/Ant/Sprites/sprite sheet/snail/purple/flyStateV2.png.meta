@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: f533a110b15a916478676c158d74ccd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: flyStateV2_0
+  - first:
+      213: 21300002
+    second: flyStateV2_1
+  - first:
+      213: 21300004
+    second: flyStateV2_2
+  - first:
+      213: 21300006
+    second: flyStateV2_3
+  - first:
+      213: 21300008
+    second: flyStateV2_4
+  - first:
+      213: 21300010
+    second: flyStateV2_5
+  - first:
+      213: 21300012
+    second: flyStateV2_6
+  - first:
+      213: 21300014
+    second: flyStateV2_7
+  - first:
+      213: 21300016
+    second: flyStateV2_8
+  - first:
+      213: 21300018
+    second: flyStateV2_9
+  - first:
+      213: 21300020
+    second: flyStateV2_10
+  - first:
+      213: 21300022
+    second: flyStateV2_11
+  - first:
+      213: 21300024
+    second: flyStateV2_12
+  - first:
+      213: 21300026
+    second: flyStateV2_13
+  - first:
+      213: 21300028
+    second: flyStateV2_14
+  - first:
+      213: 21300030
+    second: flyStateV2_15
+  - first:
+      213: 21300032
+    second: flyStateV2_16
+  - first:
+      213: 21300034
+    second: flyStateV2_17
+  - first:
+      213: 21300036
+    second: flyStateV2_18
+  - first:
+      213: 21300038
+    second: flyStateV2_19
+  - first:
+      213: 21300040
+    second: flyStateV2_20
+  - first:
+      213: 21300042
+    second: flyStateV2_21
+  - first:
+      213: 21300044
+    second: flyStateV2_22
+  - first:
+      213: 21300046
+    second: flyStateV2_23
+  - first:
+      213: 21300048
+    second: flyStateV2_24
+  - first:
+      213: 21300050
+    second: flyStateV2_25
+  - first:
+      213: 21300052
+    second: flyStateV2_26
+  - first:
+      213: 21300054
+    second: flyStateV2_27
+  - first:
+      213: 21300056
+    second: flyStateV2_28
+  - first:
+      213: 21300058
+    second: flyStateV2_29
+  - first:
+      213: 21300060
+    second: flyStateV2_30
+  - first:
+      213: 21300062
+    second: flyStateV2_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flyStateV2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5088
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb4a515bc4d664d8b9677b87fba444
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_1
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 5088
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0491058e1d7e604c88ae1917be9243c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_2
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 5088
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e993823743a94c4fad654f1afb6a1aa
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_3
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 5088
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9bc71d36703824ab2da995342075b5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_4
+      rect:
+        serializedVersion: 2
+        x: 5980
+        y: 5088
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b115e719afa9f4ea0e4aaee4d196e7
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_5
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 5088
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c28498782f1c41a89ca5b0d3bd8ad
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_6
+      rect:
+        serializedVersion: 2
+        x: 8970
+        y: 5088
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e57d86a561eca4eb74545ddfaf14af
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3816
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0e152c048741247a74f9521ae6902a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_8
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 3816
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e312c0e9e9d05249af793b682b9d21f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_9
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3816
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa9c8c06af09204bad1f470b021fd98
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_10
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 3816
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c46b7a647b43e4494fa08d31282889
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_11
+      rect:
+        serializedVersion: 2
+        x: 5980
+        y: 3816
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db53c0a9095eb24182aff84a0aebcdc
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_12
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 3816
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ab2ce2b0a5a54fa652f11f9eb651c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_13
+      rect:
+        serializedVersion: 2
+        x: 8970
+        y: 3816
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db0df9efef0efb4594e3e3d516e69de
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2544
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee829eac8cf98ba4aa45683a99d3d2f3
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_15
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2544
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae1a348ca4496b4ea83ee36c2968e51
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_16
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 2544
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6916707843e8409f4b86d21f20013
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_17
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 2544
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5dd8558aebac54bba77597d932ac58
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_18
+      rect:
+        serializedVersion: 2
+        x: 5980
+        y: 2544
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370785c67fb372143bfa8f180793c345
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_19
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 2544
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a0cc678190904c8dabc2c68543fd6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_20
+      rect:
+        serializedVersion: 2
+        x: 8970
+        y: 2544
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3d637e468d823419f016e2b4986e65
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c757fce9933ec4c967128095875930
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_22
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1272
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff36abfbf0ff6824d8e049a18bea485e
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_23
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1272
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dca0d713a5c094fb9de0e97e4b35eb
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_24
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1272
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db5576500e8434aad3357c3fbec959
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_25
+      rect:
+        serializedVersion: 2
+        x: 5980
+        y: 1272
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b788d30b5b8397b43bef9414924ed9d3
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_26
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 1272
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ddc6755ff31b444bb848d1bd2761e8
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_27
+      rect:
+        serializedVersion: 2
+        x: 8970
+        y: 1272
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4ff2de99a796044b27b0237c118beb
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f4410749b71149bf3917a60cab277
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_29
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 0
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae09e07cb437244e9b25bb88e4aa7df
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_30
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 0
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12adb4a5d298a2147abadf67713cf079
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyStateV2_31
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 0
+        width: 1495
+        height: 1272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dec09ab51517f459c4a4d2b1406b30
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 74e8e20335996ab4cad6a11fc306aafc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

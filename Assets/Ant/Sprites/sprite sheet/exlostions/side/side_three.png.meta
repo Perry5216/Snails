@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 524b249b544f55b43b348aa268dc7f99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: side_three_0
+  - first:
+      213: 21300002
+    second: side_three_1
+  - first:
+      213: 21300004
+    second: side_three_2
+  - first:
+      213: 21300006
+    second: side_three_3
+  - first:
+      213: 21300008
+    second: side_three_4
+  - first:
+      213: 21300010
+    second: side_three_5
+  - first:
+      213: 21300012
+    second: side_three_6
+  - first:
+      213: 21300014
+    second: side_three_7
+  - first:
+      213: 21300016
+    second: side_three_8
+  - first:
+      213: 21300018
+    second: side_three_9
+  - first:
+      213: 21300020
+    second: side_three_10
+  - first:
+      213: 21300022
+    second: side_three_11
+  - first:
+      213: 21300024
+    second: side_three_12
+  - first:
+      213: 21300026
+    second: side_three_13
+  - first:
+      213: 21300028
+    second: side_three_14
+  - first:
+      213: 21300030
+    second: side_three_15
+  - first:
+      213: 21300032
+    second: side_three_16
+  - first:
+      213: 21300034
+    second: side_three_17
+  - first:
+      213: 21300036
+    second: side_three_18
+  - first:
+      213: 21300038
+    second: side_three_19
+  - first:
+      213: 21300040
+    second: side_three_20
+  - first:
+      213: 21300042
+    second: side_three_21
+  - first:
+      213: 21300044
+    second: side_three_22
+  - first:
+      213: 21300046
+    second: side_three_23
+  - first:
+      213: 21300048
+    second: side_three_24
+  - first:
+      213: 21300050
+    second: side_three_25
+  - first:
+      213: 21300052
+    second: side_three_26
+  - first:
+      213: 21300054
+    second: side_three_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: side_three_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf288437142aaa4181fb22a614e0c56
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_1
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef754f0e20b6834d8dc7682f2dc1d49
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_2
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575407fc30909cb449f4064153405648
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_3
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61b947600cd820489f785e15f2e89fe
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_4
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4184b8c52afc3b84eb0d20dc593386bb
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_5
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72cf684047c84d468c59ff3c2cd68ad
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_6
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cc94a617d2bfe4187b715f5de7c083
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_7
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15687e08acdbf640af094865c2ab8f9
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_8
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9b8f0ad10605148aeea8ac6a56a270
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_9
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 2192
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a320927a55fbd40bc6e359aa69da57
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c9470c55adf754b99f453a445b7dcf
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e0ae156e1cc64687c610adc290873
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_12
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c4909d5faa0fa4b937278c8f0aa659
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_13
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d43d693328ef04db172a2610180d5c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_14
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e2942c5474a746aff714464b93352
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_15
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b207d19cbf9604183277404046e100
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_16
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d2335c7506cb840aa6bcf1022d6fdd
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_17
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dcb8c2fca965b4fb6b082d262dc2ca
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_18
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953300559c9198c4db25e4b27f084e51
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_19
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1096
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc3c804c596c5748a914a27da8f21f5
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6e9921cce96d044ba60b8e6e09e2b9
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb646335800bdc743b316d3f9c0b6f6a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_22
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a537a1a7de0924ba08609223ece22c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_23
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e86f68605d714f8a9b1f3ab253908
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_24
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb15529d69f2243bfb99a043d8a3ce
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_25
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a3ce2aa6df814469266d6b69d799e2
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_26
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ddd3beb3a97e54b89fb8a8a60ad7f7
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: side_three_27
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 0
+        width: 910
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f9e373c0afea34eada7062768254d7
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c7ab5096189db6b4fa3852d2da269986
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

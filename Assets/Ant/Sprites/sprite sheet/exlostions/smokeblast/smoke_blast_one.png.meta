@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: e414a20df198c5247a6b5db900ae340e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: smoke_blast_one_0
+  - first:
+      213: 21300002
+    second: smoke_blast_one_1
+  - first:
+      213: 21300004
+    second: smoke_blast_one_2
+  - first:
+      213: 21300006
+    second: smoke_blast_one_3
+  - first:
+      213: 21300008
+    second: smoke_blast_one_4
+  - first:
+      213: 21300010
+    second: smoke_blast_one_5
+  - first:
+      213: 21300012
+    second: smoke_blast_one_6
+  - first:
+      213: 21300014
+    second: smoke_blast_one_7
+  - first:
+      213: 21300016
+    second: smoke_blast_one_8
+  - first:
+      213: 21300018
+    second: smoke_blast_one_9
+  - first:
+      213: 21300020
+    second: smoke_blast_one_10
+  - first:
+      213: 21300022
+    second: smoke_blast_one_11
+  - first:
+      213: 21300024
+    second: smoke_blast_one_12
+  - first:
+      213: 21300026
+    second: smoke_blast_one_13
+  - first:
+      213: 21300028
+    second: smoke_blast_one_14
+  - first:
+      213: 21300030
+    second: smoke_blast_one_15
+  - first:
+      213: 21300032
+    second: smoke_blast_one_16
+  - first:
+      213: 21300034
+    second: smoke_blast_one_17
+  - first:
+      213: 21300036
+    second: smoke_blast_one_18
+  - first:
+      213: 21300038
+    second: smoke_blast_one_19
+  - first:
+      213: 21300040
+    second: smoke_blast_one_20
+  - first:
+      213: 21300042
+    second: smoke_blast_one_21
+  - first:
+      213: 21300044
+    second: smoke_blast_one_22
+  - first:
+      213: 21300046
+    second: smoke_blast_one_23
+  - first:
+      213: 21300048
+    second: smoke_blast_one_24
+  - first:
+      213: 21300050
+    second: smoke_blast_one_25
+  - first:
+      213: 21300052
+    second: smoke_blast_one_26
+  - first:
+      213: 21300054
+    second: smoke_blast_one_27
+  - first:
+      213: 21300056
+    second: smoke_blast_one_28
+  - first:
+      213: 21300058
+    second: smoke_blast_one_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoke_blast_one_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c207cd590342e544c8748a8cacbba418
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 548
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853098bc11b46c64395f9c6bafb2fd66
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 548
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a6419892b7cca4ebf8bb097205ce4a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 548
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8735d212395b7f24c8b96a794750dd16
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 548
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feec77f2ced09e044a00ba839d4321fd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_5
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 548
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c25525bdad467241aaa3fcdf0252a95
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_6
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 548
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ab242662e61c34bbcb99a483280a8d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_7
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 548
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959dbc99360ba474895005286322ba9c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_8
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 548
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea19211444ed42428fed3a3accf987a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_9
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 548
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d04ded66361b146b83e41dc2968be3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c115a9a46c9abf74090358204e335e57
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 274
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b71e7cc81a0fa428e594e5b6324514
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 274
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1a3f421b3f4f944820e6d31295d4b4
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_13
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 274
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c2548391245f43b59516e6e789ace
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_14
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 274
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fc7e3a13d63d3468974aa4b7d491f2
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_15
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 274
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af5c99a7837a194180ce8b1ade8f391
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_16
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 274
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56054a0be5934d429577a5ebdd5388a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_17
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 274
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5c9d80a9572454da340371165d7491
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_18
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 274
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68941569041409444a72da52e41321ea
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_19
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 274
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6b65c14deab1f419c92a8b070ad236
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3556e525080d84c9f6ef68a3774329
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de451593ad3455842849c79c8e9a61b7
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6689718b93a50f4987dd34e18086ba4
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd226105c48c99549bcc39fbf32a0461
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_24
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee59d76701423148b8d369bf4821d64
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_25
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 0
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdab01c5f7d07f49a89aefea376d40e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_26
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 0
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb352edef81ba54281c605821f614a4
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_27
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 0
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb02e41a33d6140a4ea565d2386a72
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_28
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 0
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e446fa7af805d54ea53e0296dd5872d
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke_blast_one_29
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 0
+        width: 173
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402fbb117444fb541afb9af9e8f7f69f
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8b2f1c5b685b9bb4fabb4e87ad406546
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

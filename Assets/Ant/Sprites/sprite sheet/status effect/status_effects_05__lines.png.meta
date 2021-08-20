@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 853e34a57a921714f89e8fae431cdf48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: status_effects_05__lines_0
+  - first:
+      213: 21300002
+    second: status_effects_05__lines_1
+  - first:
+      213: 21300004
+    second: status_effects_05__lines_2
+  - first:
+      213: 21300006
+    second: status_effects_05__lines_3
+  - first:
+      213: 21300008
+    second: status_effects_05__lines_4
+  - first:
+      213: 21300010
+    second: status_effects_05__lines_5
+  - first:
+      213: 21300012
+    second: status_effects_05__lines_6
+  - first:
+      213: 21300014
+    second: status_effects_05__lines_7
+  - first:
+      213: 21300016
+    second: status_effects_05__lines_8
+  - first:
+      213: 21300018
+    second: status_effects_05__lines_9
+  - first:
+      213: 21300020
+    second: status_effects_05__lines_10
+  - first:
+      213: 21300022
+    second: status_effects_05__lines_11
+  - first:
+      213: 21300024
+    second: status_effects_05__lines_12
+  - first:
+      213: 21300026
+    second: status_effects_05__lines_13
+  - first:
+      213: 21300028
+    second: status_effects_05__lines_14
+  - first:
+      213: 21300030
+    second: status_effects_05__lines_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: status_effects_05__lines_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2937
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b25c3dbb197c4db313c9dddaad658
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2937
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e321830969d58489e522e2b3391ae7
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2937
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084fad7ffbaa46242b9ca8e814e06668
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2937
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cfb6bbce2ec27438727e9869ccf0ed
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1958
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5846dfa7b29644eb86e29863ce3601
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1958
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c51d88d42377644ba893e37cd49cdfd
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1958
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a4e464fca1b4541af494913c340fef
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_7
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1958
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa70f1ee04c6b1469303959f2c48264
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 979
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094ee105af7e8544da291439e5a13b58
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 979
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce2ab5f87bead4087deeec8580f2a1
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_10
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 979
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac07ea900a31440a045f1febec76eb
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_11
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 979
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6673b6090d89bc84396dcd8eb0773d55
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4690fc2f2b770f438671c85b10b1eb3
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318f6eac82740eb40aabcc5303d88594
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_14
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b40344ede2152e4396fa9dfeeb2cc6d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: status_effects_05__lines_15
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 319
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4b4a7fac20adb4c9773bcf23b8675a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fa0d91c783cb57c449de7024e8fbd938
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

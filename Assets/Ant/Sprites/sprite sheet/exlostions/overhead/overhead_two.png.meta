@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 97827817f02fcc845aa2b0dac77b8dfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: overhead_two_0
+  - first:
+      213: 21300002
+    second: overhead_two_1
+  - first:
+      213: 21300004
+    second: overhead_two_2
+  - first:
+      213: 21300006
+    second: overhead_two_3
+  - first:
+      213: 21300008
+    second: overhead_two_4
+  - first:
+      213: 21300010
+    second: overhead_two_5
+  - first:
+      213: 21300012
+    second: overhead_two_6
+  - first:
+      213: 21300014
+    second: overhead_two_7
+  - first:
+      213: 21300016
+    second: overhead_two_8
+  - first:
+      213: 21300018
+    second: overhead_two_9
+  - first:
+      213: 21300020
+    second: overhead_two_10
+  - first:
+      213: 21300022
+    second: overhead_two_11
+  - first:
+      213: 21300024
+    second: overhead_two_12
+  - first:
+      213: 21300026
+    second: overhead_two_13
+  - first:
+      213: 21300028
+    second: overhead_two_14
+  - first:
+      213: 21300030
+    second: overhead_two_15
+  - first:
+      213: 21300032
+    second: overhead_two_16
+  - first:
+      213: 21300034
+    second: overhead_two_17
+  - first:
+      213: 21300036
+    second: overhead_two_18
+  - first:
+      213: 21300038
+    second: overhead_two_19
+  - first:
+      213: 21300040
+    second: overhead_two_20
+  - first:
+      213: 21300042
+    second: overhead_two_21
+  - first:
+      213: 21300044
+    second: overhead_two_22
+  - first:
+      213: 21300046
+    second: overhead_two_23
+  - first:
+      213: 21300048
+    second: overhead_two_24
+  - first:
+      213: 21300050
+    second: overhead_two_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: overhead_two_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1006
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0032ff04c0ae444bc9f29b5c4753f6
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1006
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9931fe212b7951458fcce33f0fcae14
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1006
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f44fab1ec48c14ba1aabcf2b5a3a98
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_3
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1006
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200f025edf8cce54eb52678a3baf56ba
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_4
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1006
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a07f40680bc14392ead1097a8a144
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_5
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1006
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ffeb6c17ca027468e9983640d74e8f
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_6
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1006
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da81a839860d50f49953dac3b7d2c9cd
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_7
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1006
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87109f92a61d576479063ecc3bcd615a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_8
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1006
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad0e49c9ccc5b540be2d5b31d3d2eaa
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_9
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 1006
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9ec6fcff9ecd54bb6f43dcaf521df2
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729c23d9626cdd343a7cc4169d8fcbad
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 503
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cf305f327d26d4fb6a7c77a6480c1d
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_12
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 503
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffedb45da8dda447982c2213cb723ff
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_13
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 503
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2197e6d30580ae4aa341683de109580
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_14
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 503
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7851380c44db476468b6a9885b08c2f5
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_15
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 503
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34f5686a7126fd448055c52ed68b50a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_16
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 503
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbf297edba8d764cb0f536cb46b116a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_17
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 503
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe32955cb8e5cc64ab727311a761e632
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_18
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 503
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30307e07f88cb6745bcb61c80477d8e7
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_19
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 503
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68382f60aeb0472419c58929c0b27a20
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d0bc69347a00a4993de68bec2c9f88
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb010af5b6e3b05448e0738ef4f8eca8
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_22
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08214a2d1328ef43bcabae06fc924f2
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_23
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d35d6c5b50bc84d8de6c2001654957
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_24
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f4cb93a582ee647954f2f8851059a5
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overhead_two_25
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 0
+        width: 354
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34b6cdd19e4e1c42afc627173c3ab9f
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: df665038577df614c8cb8673f8e8e76d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

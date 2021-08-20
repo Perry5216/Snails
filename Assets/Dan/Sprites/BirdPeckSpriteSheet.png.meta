@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 68c8cb8f104154949ad51881a0625aec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BirdPeckSpriteSheet_0
+  - first:
+      213: 21300002
+    second: BirdPeckSpriteSheet_1
+  - first:
+      213: 21300004
+    second: BirdPeckSpriteSheet_2
+  - first:
+      213: 21300006
+    second: BirdPeckSpriteSheet_3
+  - first:
+      213: 21300008
+    second: BirdPeckSpriteSheet_4
+  - first:
+      213: 21300010
+    second: BirdPeckSpriteSheet_5
+  - first:
+      213: 21300012
+    second: BirdPeckSpriteSheet_6
+  - first:
+      213: 21300014
+    second: BirdPeckSpriteSheet_7
+  - first:
+      213: 21300016
+    second: BirdPeckSpriteSheet_8
+  - first:
+      213: 21300018
+    second: BirdPeckSpriteSheet_9
+  - first:
+      213: 21300020
+    second: BirdPeckSpriteSheet_10
+  - first:
+      213: 21300022
+    second: BirdPeckSpriteSheet_11
+  - first:
+      213: 21300024
+    second: BirdPeckSpriteSheet_12
+  - first:
+      213: 21300026
+    second: BirdPeckSpriteSheet_13
+  - first:
+      213: 21300028
+    second: BirdPeckSpriteSheet_14
+  - first:
+      213: 21300030
+    second: BirdPeckSpriteSheet_15
+  - first:
+      213: 21300032
+    second: BirdPeckSpriteSheet_16
+  - first:
+      213: 21300034
+    second: BirdPeckSpriteSheet_17
+  - first:
+      213: 21300036
+    second: BirdPeckSpriteSheet_18
+  - first:
+      213: 21300038
+    second: BirdPeckSpriteSheet_19
+  - first:
+      213: 21300040
+    second: BirdPeckSpriteSheet_20
+  - first:
+      213: 21300042
+    second: BirdPeckSpriteSheet_21
+  - first:
+      213: 21300044
+    second: BirdPeckSpriteSheet_22
+  - first:
+      213: 21300046
+    second: BirdPeckSpriteSheet_23
+  - first:
+      213: 21300048
+    second: BirdPeckSpriteSheet_24
+  - first:
+      213: 21300050
+    second: BirdPeckSpriteSheet_25
+  - first:
+      213: 21300052
+    second: BirdPeckSpriteSheet_26
+  - first:
+      213: 21300054
+    second: BirdPeckSpriteSheet_27
+  - first:
+      213: 21300056
+    second: BirdPeckSpriteSheet_28
+  - first:
+      213: 21300058
+    second: BirdPeckSpriteSheet_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf7f5ca35118f46be70e4999fbb5b7
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 576
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78c59dd3919e2d42940c7179a0c9f60
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 576
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f6b9a21323f2a47ab1a7563b83b4b6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 576
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987987462f40c134fadaac76e2e658e7
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 576
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c3dec38ef21644dbec9d3e73c766d7
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 576
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa29d2b4590a744d95cadea60ad2bb8
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92e44a496f182d419a872f09151823a
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 432
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a647f73ae4ee4046a027abd1a8eeae7
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 432
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffd17b2883bafd458ba794e7d7b7e65
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 432
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75102561ba315a44951cd98f00d0310
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 432
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd90104f6a176464c9f032a67e7c399b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 432
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141c4e92fa9c2ad45a079f21db0342d4
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9669a27110f0a984f8ab47b8adbcae68
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 288
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117ebf0b64dade94686e6227e7633028
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 288
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3bb6cd1d248c4448ddafbc4626a253
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 288
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaed1a354e9f18419f91edecfeea580
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 288
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9fb265dfbd300499acdd59733ba1c0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 288
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223ea22e1232827419c624231fc4b27c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2dbc4bfcbcade4f9880b1cbad6c698
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 144
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f8c025a2a73ea428a0b88a41c9c269
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 144
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020df69575ad3f947b3e717af8302d4a
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 144
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f558a311de975b41a6a5710fabf5863
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 144
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d530e5251be69346959958a4b4340b7
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 144
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c80d5a281dabe46a44acf245c23b27
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333846824fddb0445bc297e2cd2b0de5
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635090489c4f9684a8ac0398c494c8e6
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2260fb0684abc7941b52fd27da499717
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a304c20d6a89b45b0aac6a84ad6428
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bb70e741e44bf4d8068d1ffbc6f6b3
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdPeckSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 182
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4265d7865c3a134095d226b3efdefae
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d068700a581ee4144b49d1693a083d4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
