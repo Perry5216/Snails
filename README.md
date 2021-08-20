@@ -1,6 +1,6 @@
 Year two - Snail team project
 
-Dan - https://github.com/TheRealDrDan
+Dan - https://github.com/TheRealDrDan - Second member of the team
 
 Video
 
